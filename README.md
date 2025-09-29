@@ -65,7 +65,7 @@ _Specialist Programmer | Full Stack Developer | Data Enthusiast_
 ## 🛠 Projects
 
 **Infytel Microservices Application**  
-![Microservices Animation](https://assets4.lottiefiles.com/packages/lf20_x62chJ.json)  
+![Microservices Animation](https://lottiefiles.com/free-animation/project-evolution-steps-IggvLF1kPI.gif)  
 - Designed 4-microservice architecture (Customer, Plans, Friend-Family, Call Details)  
 - Built REST APIs, cutting downtime by 15% ⏱️  
 - Improved DB performance by 20% via schema optimization  
