@@ -3,7 +3,7 @@
 👋 Hi, I'm **Naman Bhardwaj**  
 _Specialist Programmer | Full Stack Developer | Data Enthusiast_  
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Full+Stack+Enthusiast;Data+Engineer;AI+Trainer&center=true&width=400&height=50)
+![Typing Animation](https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Full+Stack+Developer;Data+Engineer;AI+Trainer&center=true&width=450&height=50)
 
 ---
 
@@ -65,13 +65,13 @@ _Specialist Programmer | Full Stack Developer | Data Enthusiast_
 ## 🛠 Projects
 
 **Infytel Microservices Application**  
-![Project GIF](https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif)  
+![Microservices Animation](https://assets4.lottiefiles.com/packages/lf20_x62chJ.json)  
 - Designed 4-microservice architecture (Customer, Plans, Friend-Family, Call Details)  
 - Built REST APIs, cutting downtime by 15% ⏱️  
 - Improved DB performance by 20% via schema optimization  
 
 **PySpark Data Processing Pipeline**  
-![Data GIF](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)  
+![Data Pipeline Animation](https://assets4.lottiefiles.com/packages/lf20_vnikrcia.json)  
 - Developed scalable data cleaning pipelines with RDDs, DataFrames, and Spark SQL  
 - Processed 5M+ raw records with filtering, aggregation, and joins  
 
@@ -81,10 +81,3 @@ _Specialist Programmer | Full Stack Developer | Data Enthusiast_
 
 - Pre-Placement Offer as Specialist Programmer — Infosys (Top 100 nationwide) 🏅  
 - Finalist in HackWithInfy 2024, ranked top 100 of 100,000+ candidates 🎖️  
-
----
-
-## 📊 GitHub Stats
-
-![Naman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=namanbhardwaj&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=namanbhardwaj&theme=radical)
